@@ -1,4 +1,4 @@
-### Chest X-ray Image Classification using Deep Learnin
+### Chest X-ray Image Classification using Deep Learning
 
 #### Project Overview:
 In this project, the goal was to classify Chest X-ray images into categories (likely Normal vs Pneumonia or other diseases) using deep learning techniques. The dataset used is the Chest X-ray dataset, which contains labeled X-ray images of patients' chests.
